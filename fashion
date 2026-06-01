@@ -1,1 +1,19 @@
+<header>
+  Logo | Search Bar | Account | Cart
+</header>
 
+<section class="hero">
+  Big Banner Slider
+</section>
+
+<section class="products">
+  Featured Products
+</section>
+
+<section class="fashion">
+  Fashion Collection
+</section>
+
+<footer>
+  About | Contact | Privacy Policy
+</footer>
